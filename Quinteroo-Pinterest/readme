@@ -1,0 +1,15 @@
+.
+PRÁCTICA DE ARQUITECTURA DE LA INFORMACIÓN - Miguel Angel Quintero
+---------------------------------------------------
+
+Emplearé la landing page de Pinterest.com
+
+Puede encontrar las capturas de imágenes para el estudio en la carpeta ./assets
+
+Dichas imágenes se han tratado con Toggle Pesticide de Chrome para delimitar las formas, pero en este caso he seguido mi
+propio criterio a la hora de organizar el contenido.
+
+El Footer no aparece como html cuando inspeccionamos la página, así que me he inventado uno.
+
+Otra cosa que me pareció un poco rara, es que el H1 es el botón del navegador 'Inicio', podéis verlo en la imgaen
+'estudio-4' en la carpeta ./assets
